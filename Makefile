@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2018/12/06 00:07:33 schmonz Exp $
 
 DISTNAME=		qmail-spp-spf-20091020.c
 PKGNAME=		${DISTNAME:S/.c$//}

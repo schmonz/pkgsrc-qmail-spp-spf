@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-qmail-spp-spf-20091020.c,v 1.1 2018/12/06 00:07:33 schmonz Exp $
 
 Adjust include path and IPv6 struct access.
 

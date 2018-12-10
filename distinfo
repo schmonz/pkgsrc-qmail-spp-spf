@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: distinfo,v 1.1 2018/12/06 00:07:33 schmonz Exp $
 
 SHA1 (qmail-spp-spf-20091020.c) = 3aca350c027345126cc631ffecdbbb697c9c4c45
 RMD160 (qmail-spp-spf-20091020.c) = 874bf86fdd4ddb671ad0827e1bf56cdda1deaec9
